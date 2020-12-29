@@ -1,6 +1,6 @@
 [Forget-The-Apps]
 ! Title: Forget-The-Apps Filters
-! Source: 
+! Source: https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt
 ! This file is a compiled binary, do not modify
 ! All modifications will be overwritten on the next build
 
