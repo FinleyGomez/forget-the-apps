@@ -26,7 +26,7 @@ Most, if not all of these work with all the most popular browsers such as Chrome
  2. Open uBlock Origin
  3. Go head over to the 'Filter List' section
  4. Scroll down and tick the '□ Import...' box
- 5. Copy this link and paste it in the 'Import' box: https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt
+ 5. [Click this link and paste the URL in to the import section](https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt)
  6. Click the 'Apply Changes' button in the top left
  7. To update the filter, click the 'Update Now' button in the top left
  8. You should be all up and running on Forget-The-Apps!
