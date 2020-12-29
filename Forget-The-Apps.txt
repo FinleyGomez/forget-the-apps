@@ -1,0 +1,193 @@
+[Forget-The-Apps]
+! Title: Forget-The-Apps Filters
+! Source: 
+! This file is a compiled binary, do not modify
+! All modifications will be overwritten on the next build
+
+! 2020-12-18 https://soundcloud.com
+||a-v2.sndcdn.com/assets/images/appstore_badge-875ae97c.png$image
+||a-v2.sndcdn.com/assets/images/google_play_badge-26379006.png$image
+||a-v2.sndcdn.com/assets/images/appstore_badge-875ae97c.png$image
+soundcloud.com##.frontMobileTeaser__links
+
+! 2020-12-18 https://audiomack.com
+||audiomack.com/static/images/desktop/textmebadge*.png$image
+audiomack.com##.u-spacing-top-em.u-d-justify-center.u-d-flex.u-text-center.app-badges--inline.app-badges
+audiomack.com##.u-spacing-top.u-inline-list.app-badges--inline.app-badges
+audiomack.com##.create-footer__badges
+audiomack.com##.u-text-center.site-sidebar__app-badges.app-badges > li
+
+! 2020-12-18 https://www.instagram.com
+www.instagram.com##.APQi1
+
+! 2020-12-18 https://www.spotify.com
+www.spotify.com##.gDDIZm.MobileUpsell__Content-sc-1f3biua-1 > div
+www.spotify.com##.faMtmA.MobileUpsell__StyledSection-sc-1f3biua-0
+
+! 2020-12-18 https://www.ebay.com
+www.ebay.com##.hl-image__fill.hl-custom-card__image.js-only.hl-image-js.hl-image > .hl-image__background
+||i.ebayimg.com/images/g/4zMAAOSweF1eHGxz/s-l960.webp$image
+www.ebay.com##.hl-custom-card__side-text
+www.ebay.com##.hl-atf-module-js.hl-custom-card.hl-module
+
+! 2020-12-18 https://www.walmart.com
+www.walmart.com##.ba_e.o_u.o_a
+||i5.walmartimages.com/dfw/63fd9f59-6aed/824dae3a-da8f-4afb-be97-a42a31a64d4f/v1/mobile-black.f709a46acc121f5f4d5dc2e0667d13866da12ab7.svg$image
+
+! 2020-12-18 https://www.fandom.com
+www.fandom.com##li.quick-links__footer-list-item:nth-of-type(4)
+www.fandom.com##li.quick-links__footer-list-item:nth-of-type(5)
+
+! 2020-12-18 https://zoom.us
+zoom.us##[href="https://zoom.us/download#client_iphone"]
+zoom.us##[href="https://zoom.us/download#mobile_app"]
+
+! 2020-12-18 https://outlook.live.com
+outlook.live.com##.desktop.os-exclusive
+
+! 2020-12-18 https://www.msn.com
+www.msn.com##[href^="https://itunes.apple.com/gb/app/microsoft-news/id945416273"]
+||play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png$image
+
+! 2020-12-18 https://www.paypal.com
+www.paypal.com##.reverse-render.custom-editorial.theme-background-color-white.editorial > .container > .row > .text-md-left.editorial__text.editorial__container.col-md-6.col-xs-12 > .editorial__paragraph > .editorial_link
+www.paypal.com##[href="https://www.paypal.com/us/webapps/mpp/mobile-apps/paypal-app"]
+
+! 2020-12-18 https://www.homedepot.com
+www.homedepot.com##[href="//www.homedepot.com/c/SF_Mobile_Shopping"] > .footer__socialIcon
+
+! 2020-12-18 https://www.bestbuy.com
+www.bestbuy.com##.bby-app-block
+www.bestbuy.com##.col-xs-1.divider-block
+www.bestbuy.com##.footer-email-container > .col-xs-3
+
+! 2020-12-18 https://www.etsy.com
+www.etsy.com##.wt-text-left-xs.wt-align-items-center.wt-display-inline-flex-xs.wt-pb-xs-1.wt-pt-xs-1.wt-btn--light.wt-btn--outline.wt-btn--small.wt-btn.wt-mt-xs-4
+
+! 2020-12-18 https://www.target.com
+www.target.com###select-48 > .kQLNKo.ggrRdX.SelectBox__SelectButtonWithValidation-sc-6gt3w9-1.Button-bwu3xu-0
+www.target.com###select-48
+www.target.com###more-targetApp > .lbDZi.dJwaza.NavigationLink-kfyxgv-0.Link-sc-1khjl8b-0
+www.target.com###more-targetApp
+
+! 2020-12-18 https://www.zillow.com
+www.zillow.com##.fsEZio.pfs__sc-5sfc2u-0
+www.zillow.com##[href="/mobile/"]
+
+! 2020-12-18 https://www.accuweather.com
+www.accuweather.com##a.footer-category-section-link:nth-of-type(3)
+
+! 2020-12-18 https://github.com
+github.com##div.mb-6-fluid.flex-column.d-flex.col-lg-5.col-md-10.col-sm-11.col-12.ml-lg-0.offset-sm-1 > div > .flex-items-center.d-flex.list-style-none
+github.com##.mb-3-fluid.text-gray-mktg.text-semibold-mktg.h6-mktg-fluid
+
+! 2020-12-18 https://www.macys.com
+www.macys.com##.appdownloads
+www.macys.com##.appdownloads-section > .title
+
+! 2020-12-18 https://imgur.com
+imgur.com##.Footer-app
+
+! 2020-12-18 https://www.tripadvisor.com
+www.tripadvisor.com##div.cpzsw9RX:nth-of-type(2)
+
+! 2020-12-18 https://www.snapchat.com
+www.snapchat.com##.stores
+
+! 2020-12-18 https://bandcamp.com
+bandcamp.com##div.col-3-12.col:nth-of-type(1) > ul.pg-ft-nav:nth-of-type(1) > li:nth-of-type(4)
+
+! 2020-12-29 https://www.whosampled.com
+||www.whosampled.com/static/images/banners/mobile-app-music-recognition-*1.jpg$image
+||www.whosampled.com/static/images/banners/iphone-app-store.png$image
+||www.whosampled.com/static/images/banners/iphone-app-store.png$image
+||www.whosampled.com/static/images/banners/android-app-store.png$image
+
+! 2020-12-29 https://www.fandom.com
+www.fandom.com##div.wds-global-footer__column:nth-of-type(4)
+
+! 2020-12-29 https://www.whatsapp.com
+www.whatsapp.com##._2z2g._2zn9 > ul > li
+
+! 2020-12-29 https://www.tiktok.com
+www.tiktok.com##.show.jsx-3979932517
+
+! 2020-12-29 https://www.aliexpress.com
+www.aliexpress.com##.sf-download-app
+www.aliexpress.com##div.site-item:nth-of-type(6)
+www.aliexpress.com##.ng-mobile.ng-item
+
+! 2020-12-29 https://soundcloud.com
+soundcloud.com##.sc-border-light-bottom.sc-type-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.m-sidebar.sc-clearfix.mobileAppsButtons
+soundcloud.com##.mobileApps.g-all-transitions-200-linear.sidebarModule > .sidebarContent
+
+! 2020-12-29 https://www.mixcloud.com
+www.mixcloud.com##.ijBWCp.HomeLoggedOut__VerticalCenterColumn-b8t09e-2.Grid__Column-sc-1abrnps-2 > .eXWPbY.DownloadAppButtons__DownloadApp-sc-1nyw892-1.DownloadAppButtons__HorizontalList-sc-1nyw892-0 > li > [href^="https://play.google.com/store/apps/details"] > .no-color-cascade-svg > g > g > g > path
+www.mixcloud.com##.ijBWCp.HomeLoggedOut__VerticalCenterColumn-b8t09e-2.Grid__Column-sc-1abrnps-2 > .eXWPbY.DownloadAppButtons__DownloadApp-sc-1nyw892-1.DownloadAppButtons__HorizontalList-sc-1nyw892-0
+www.mixcloud.com##h3.bNfbIr.FooterMain__Headline-sc-1tasi0i-9.Typography__Headline3-sc-1swbs0s-9:nth-of-type(1)
+www.mixcloud.com##.cgPNxu.FooterMain__Container-sc-1tasi0i-1 > .eXWPbY.DownloadAppButtons__DownloadApp-sc-1nyw892-1.DownloadAppButtons__HorizontalList-sc-1nyw892-0
+
+! 2020-12-29 https://www.google.com
+www.google.com##.badges__list
+
+! 2020-12-29 https://apps.google.com
+apps.google.com##.glue-mod-order-1-sm.glue-mod-order-1.glue-grid__col--span-6-md.glue-grid__col--span-6-lg.glue-grid__col--span-6.glue-grid__col > .glue-mod-spacer-3-top
+
+! 2020-12-29 https://hangouts.google.com
+hangouts.google.com##a.g-Ue-nupQLb-za:nth-of-type(1)
+hangouts.google.com##a.g-Ue-nupQLb-za:nth-of-type(2)
+hangouts.google.com##a.g-Ue-nupQLb-za:nth-of-type(4)
+
+! 2020-12-29 https://www.microsoft.com
+www.microsoft.com##.ow-mt-10.xs-ow-mr-0.ow-txt-trans-upper.ow-slide-in-2.ow-slide-in.f-secondary.c-button
+www.microsoft.com###officeSMSEmailRegion3
+www.microsoft.com###office-CustomSpacingTemplate-uoh60pc > .x-clearfix > div
+www.microsoft.com###office-CustomSpacingTemplate-n6r3h0z > .x-clearfix > div
+
+! 2020-12-29 https://www.skype.com
+www.skype.com##.paddingVertical0.paddingHorizontal2.verticalAlignTop.horizontalAlignCenter.noTheme.col2.col > .colContent > .fluid > .tabPanel
+www.skype.com##.paddingVertical0.paddingHorizontal2.verticalAlignTop.horizontalAlignCenter.noTheme.col2.col
+www.skype.com###tabPanelTab1
+www.skype.com###tabPanelTab3
+
+! 2020-12-29 https://edu.google.com
+edu.google.com##.gfe-cutout--text-emphasis.gfe-cutout > .gfe-grid
+edu.google.com##.gfe-mod-text-left.gfe-copy-intro > .gfe-head-intro > .gfe-head-intro__headline.gfe-headline--headline-3.gfe-headline
+edu.google.com##.gfe-cutout__content--center-right.gfe-cutout__content > .gfe-mod-text-left.gfe-copy-intro > .gfe-rows--mobile-stacked.gfe-rows--buttons.gfe-no-bullet.gfe-rows
+edu.google.com##.gfe-cutout__content--center-right.gfe-cutout__content
+
+! 2020-12-29 https://www.mozilla.org
+www.mozilla.org##.mobile-download-buttons
+www.mozilla.org##li:nth-of-type(3) > [href="/en-US/firefox/channel/desktop/#beta"]
+www.mozilla.org##li:nth-of-type(5) > [href="/en-US/firefox/channel/desktop/#nightly"]
+www.mozilla.org##section.c-footer-section:nth-of-type(4) > .c-footer-list > li:nth-of-type(3)
+www.mozilla.org##section.c-footer-section:nth-of-type(4) > .c-footer-list > li:nth-of-type(5)
+
+! 2020-12-29 https://www.opera.com
+www.opera.com##div.col-md-6.col-xs-12.mb4:nth-of-type(1) > .flex.app-tile.shadowbox--rounded.shadowbox
+www.opera.com##div.col-md-6.col-xs-12.mb4:nth-of-type(1)
+www.opera.com##div.col-md-6.col-xs-12.mb4:nth-of-type(2) > .flex.app-tile.shadowbox--rounded.shadowbox
+www.opera.com##div.col-md-6.col-xs-12.mb4:nth-of-type(2)
+www.opera.com##.mt6.start-md.center-xs.row.apps > div.col-md-6.col-xs-12.mb4
+www.opera.com##li.hf--main-nav-item:nth-of-type(3)
+www.opera.com###mobile-apps
+www.opera.com##div.col-md-5.col-xs-12:nth-of-type(1)
+www.opera.com##.start-md.center-xs.top-xs.row
+www.opera.com##.lazy-resolved.py5.section-download > .container-fluid.wrapper
+www.opera.com##li.hf--main-nav-item:nth-of-type(3)
+
+! 2020-12-29 https://telegram.org
+telegram.org##.tl_main_download_link_android.tl_main_download_link
+telegram.org##.clearfix.tl_main_download_mobile
+telegram.org##div.footer_column:nth-of-type(3)
+telegram.org##h4:nth-of-type(1)
+telegram.org##.dev_page_nav_wrap > ul:nth-of-type(1)
+telegram.org##blockquote:nth-of-type(2)
+
+! 2020-12-29 https://zoom.us
+zoom.us##.mobile-app.down-section
+zoom.us##div.down-section:nth-of-type(6)
+zoom.us##div.img:nth-of-type(3) > .btn-image.btn > .play
+zoom.us##div.img:nth-of-type(3) > .btn-image.btn
+
