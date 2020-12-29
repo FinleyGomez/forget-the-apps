@@ -23,6 +23,14 @@ Most, if not all of these work with all the most popular browsers such as Chrome
 ## How To Install Forget-The-Apps On Your Browser
 
  1. Install one of the adblockers mentioned above (For tutorial, we will be using uBlock Origin)
- 2. [Click this link here](https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt)
- 3. Click 'Subscribe' in the top right corner
- 4. Close the tab
+ 2. Open uBlock Origin
+ 3. Go head over to the 'Filter List' section
+ 4. Scroll down and tick the '□ Import...' box
+ 5. Copy this link and paste it in the 'Import' box: https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt
+ 6. Click the 'Apply Changes' button in the top left
+ 7. To update the filter, click the 'Update Now' button in the top left
+ 8. You should be all up and running on Forget-The-Apps!
+ 
+ To test out the filter to ensure that it is installed correctly, try any of the following sites!
+ 
+  - 
