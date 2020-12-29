@@ -22,7 +22,7 @@ Most, if not all of these work with all the most popular browsers such as Chrome
 
 ## Install Link
 
-[Click here to automatically install Forget-The-Apps](abp:subscribe?location=https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt)
+[Click here to automatically install Forget-The-Apps](https://abp:subscribe?location=https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt)
 
 ## How To Install Forget-The-Apps On Your Browser
 
