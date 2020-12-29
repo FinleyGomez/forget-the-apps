@@ -191,3 +191,6 @@ zoom.us##div.down-section:nth-of-type(6)
 zoom.us##div.img:nth-of-type(3) > .btn-image.btn > .play
 zoom.us##div.img:nth-of-type(3) > .btn-image.btn
 
+! 2020-12-29 https://discord.com
+discord.com##div.card-1A48l7:nth-of-type(1)
+discord.com##.card1-m1lK1k.card-1A48l7
