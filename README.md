@@ -20,6 +20,10 @@ Most, if not all of these work with all the most popular browsers such as Chrome
 
 ***NOTE***: We **strongly** recommend that you **do NOT** use Nano Adblocker and/or Nano Defender, as [they were caught collecting user data with malicious code back in October 2020](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/)!
 
+## Install Link
+
+[Click here to automatically install Forget-The-Apps](abp:subscribe?location=https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt&title=Forget-The-Apps)
+
 ## How To Install Forget-The-Apps On Your Browser
 
  1. Install one of the adblockers mentioned above (For tutorial, we will be using uBlock Origin)
