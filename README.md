@@ -4,7 +4,7 @@
 Forget-The-Apps is an AdBlock filter that blocks all the annoying App Store and Google Play buttons from websites as well as any other mobile webstore buttons/links
 
 ## How We Create Our Filters
-We created our filter using uBlock Origin (Version 1.31.2) on the Vivaldi browser (Version 3.1.1929.45 64-bit) and we have tested it on Firefox (Version 84.0.1 64-bit).
+We created our filter using uBlock Origin (Version 1.31.2) on the Vivaldi browser (Version 3.1.1929.45 64-bit) and we tested it on Firefox (Version 84.0.1 64-bit).
 
 ## Requirements To Install Forget-The-Apps On Your Browser
 In order to get Forget-The-Apps to work, you are going to need to install an Ad-Blocker plugin for your browser. We **highly** recommend using [uBlock Origin](https://github.com/gorhill/uBlock), but this also works with other ad-blockers such as:
