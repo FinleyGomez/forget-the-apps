@@ -23,5 +23,6 @@ Most, if not all of these work with all the most popular browsers such as Chrome
 ## How To Install Forget-The-Apps On Your Browser
 
  1. Install one of the adblockers mentioned above (For tutorial, we will be using uBlock Origin)
- 2. [Click this link here]()
- 3. 
+ 2. [Click this link here](https://subscribe.adblockplus.org/?location=)
+ 3. Click 'Subscribe' in the top right corner
+ 4. Close the tab
