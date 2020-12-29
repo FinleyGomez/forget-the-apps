@@ -24,7 +24,7 @@ Most, if not all of these work with all the most popular browsers such as Chrome
 
  1. Install one of the adblockers mentioned above (For tutorial, we will be using uBlock Origin)
  2. Open uBlock Origin
- 3. Go head over to the 'Filter List' section
+ 3. Head over to the 'Filter List' section
  4. Scroll down and tick the '□ Import...' box
  5. [Click this link and paste the URL in to the import section](https://raw.githubusercontent.com/FinleyGomez/forget-the-apps/main/Forget-The-Apps.txt)
  6. Click the 'Apply Changes' button in the top left
